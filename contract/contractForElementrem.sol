@@ -267,9 +267,4 @@ contract CrowdSaleContract is StandartToken
         }
     }
 
-}contract MyContract {
-    /* Constructor */
-    function MyContract() {
- 
-    }
 }
